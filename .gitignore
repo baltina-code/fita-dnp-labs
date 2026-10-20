@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+.env
+.claude/settings.local.json
+# Mācību sistēmas stāvoklis: izveido make reset
+sistema/
